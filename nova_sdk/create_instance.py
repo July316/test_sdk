@@ -123,8 +123,8 @@ if __name__ == "__main__":
 #     list_detail()
 #     create_instance(image_name="cirros",flavors_name="m1.tiny",networks_label="selfservice",ins_name="test12911111")
 #     update_instance("test1291")
-    start_server("test12911111")
-#     stop_server("test12911111")
+#     start_server("test12911111")
+    stop_server("test12911111")
 #     start_server(ins_name)
 #     del_server("test211")
 
